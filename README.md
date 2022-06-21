@@ -12,7 +12,7 @@ In case you decide for the dedicated probe port, you need a 4k7 Ohm pull up resi
 For the official recommended way to wire the probe to DIAG_7 port, a BAT85 diode is needed to prevent the mainboard from damage. Just solder the BAT85 in it's place and set the jumper to "w BAT85". When using this configuration, you must leave the pull-up resistor out. 
 
 
-It's compatible with the Voron Trident and V2.4.
+It's compatible with the Voron Trident and V2.4. If you use the Toolhead PCB by hardk, you may not need this PCB because the Toolhead pcb got a BAT85 diode already.
 
 The following part has to be printed: https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Electronics_Bay/pcb_din_clip_x3.stl
 
