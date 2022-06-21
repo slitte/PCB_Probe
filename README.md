@@ -1,7 +1,6 @@
 # PCB_Probe
 
 
-![PCB mounted on DIN Rail](/images/8EB9C79E-181A-428F-B750-54B7E7576F57.jpeg)
 
 ![PCB mounted on DIN Rail](/images/9C41BAE9-E4E5-412E-ABDE-0C47AB14D8F3.jpeg)
 
